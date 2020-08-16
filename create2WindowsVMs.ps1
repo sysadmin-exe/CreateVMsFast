@@ -4,6 +4,7 @@ $location = "westeurope"
 $vmName = "machine1"
 $VNet = "web_server_vnet"
 
+
 # Create user object
 $cred = Get-Credential -Message "Enter a username and password for the virtual machine."
 
